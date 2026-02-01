@@ -81,7 +81,7 @@ const CONFIG = {
         musicUrl: "https://github.com/vladmr617-art/vltn-website/blob/main/Justin%20Bieber%20-%20One%20Time%20(1).mp3", // Music streaming URL
         startText: "🎵 Play Music",        // Button text to start music
         stopText: "🔇 Stop Music",         // Button text to stop music
-        volume: 0.5                        // Volume level (0.0 to 1.0)
+        volume: 1.0                        // Volume level (0.0 to 1.0)
     }
 };
 
